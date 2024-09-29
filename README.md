@@ -1,12 +1,8 @@
-
 <h1 align="center">Hi 👋, I'm Soham Holkar</h1>
 <h3 align="center">IT Engineering Student at PICT Pune | Passionate Coder & Tech Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="
 https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=som192004&label=Profile%20views&color=0e75b6&style=flat" alt="som192004" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=som192004" alt="som192004" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,3 +21,4 @@ https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=som192004&show_icons=true&locale=en" alt="som192004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=som192004&" alt="som192004" /></p>
+
