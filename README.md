@@ -9,6 +9,7 @@
 <a href="https://www.hackerrank.com/soham holkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="soham holkar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/som-19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="som-19" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/sohamhol2f70/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000" alt="GFG-Profile" height="30" width="40" /></a>
+<a href="https://www.naukri.com/code360/profile/9b0575b0-61ea-478b-9998-27f7dc6ac99c" target="blank"><img align="center" src="https://files.codingninjas.in/new-cn-logos-1709018077.svg" alt="CodingNinjas-Profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
