@@ -8,6 +8,7 @@
 <a href="https://linkedin.com/in/soham-holkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soham-holkar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/soham holkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="soham holkar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/som-19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="som-19" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/som-19" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg](https://icons8.com/icon/AbQBhN9v62Ob/geeksforgeeks)" alt="som-19" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
